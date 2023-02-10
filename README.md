@@ -12,3 +12,4 @@
 2. This is the second Task [https://handsonreact.com/docs/labs/ts/RunningYourProject] [✅]
 3. This is the third Task [https://handsonreact.com/docs/labs/ts/StylesUsingCSS] [✅]
 4. This is the  fourth Task [https://handsonreact.com/docs/labs/ts/YourFirstComponent] [✅]
+5. This is the fifth Task [https://handsonreact.com/docs/labs/ts/CreatingDataStructures] [✅]
