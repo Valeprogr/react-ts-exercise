@@ -14,4 +14,4 @@
 4. This is the  fourth Task [https://handsonreact.com/docs/labs/ts/YourFirstComponent] [✅]
 5. This is the fifth Task [https://handsonreact.com/docs/labs/ts/CreatingDataStructures] [✅]
 6. This is the sixth Task [https://handsonreact.com/docs/labs/ts/PassingDataToComponent] [✅]
-7. This is the seventh Task [] []
+7. This is the seventh Task [https://handsonreact.com/docs/labs/ts/DisplayingListData] [✅]
