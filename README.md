@@ -17,3 +17,4 @@
 7. This is the seventh Task [https://handsonreact.com/docs/labs/ts/DisplayingListData] [✅]
 8. This is the eighth Task [https://handsonreact.com/docs/labs/ts/MoreReusableComponents] [✅]
 9. This is the ninth Task [https://handsonreact.com/docs/labs/ts/RespondingToEvent] [✅]
+10. This is the tithing Task [https://handsonreact.com/docs/labs/ts/CreatingForm] [✅]
