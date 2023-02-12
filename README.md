@@ -16,3 +16,4 @@
 6. This is the sixth Task [https://handsonreact.com/docs/labs/ts/PassingDataToComponent] [✅]
 7. This is the seventh Task [https://handsonreact.com/docs/labs/ts/DisplayingListData] [✅]
 8. This is the eighth Task [https://handsonreact.com/docs/labs/ts/MoreReusableComponents] [✅]
+9. This is the ninth Task [https://handsonreact.com/docs/labs/ts/RespondingToEvent] [✅]

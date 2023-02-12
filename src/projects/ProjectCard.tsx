@@ -7,7 +7,12 @@ interface ProjectCardProps {
     project: Project;
   }
 
-function ProjectCard ({project}: ProjectCardProps) {
+function ProjectCard (props: ProjectCardProps) {
+    const { project } = props;
+    
+    const handleClick = (projectBeingEdited: Project) =>{
+        console.log(projectBeingEdited);
+    }
     return (
         <div key={project.id} className="cols-sm">
         <div className="card">
@@ -18,6 +23,12 @@ function ProjectCard ({project}: ProjectCardProps) {
             </h5>
             <p>{project.description}</p>
             <p>Budget : {project.budget.toLocaleString()}</p>
+            ...
+            <p>Budget...</p>
+            <button className=" bordered" onClick={()=>{handleClick(project)}}>
+            <span className="icon-edit "></span>
+            Edit
+            </button>
           </section>
         </div>
       </div>
