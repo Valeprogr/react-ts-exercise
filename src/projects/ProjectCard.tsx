@@ -4,14 +4,15 @@ import { Project } from "./Project";
 
 
 interface ProjectCardProps {
-    project: Project;
+    project: Project,
+    onEdit: (project : Project) => void;
   }
 
 function ProjectCard (props: ProjectCardProps) {
-    const { project } = props;
+    const { project , onEdit} = props;
     
     const handleClick = (projectBeingEdited: Project) =>{
-        console.log(projectBeingEdited);
+        onEdit(projectBeingEdited);
     }
     return (
         <div key={project.id} className="cols-sm">
