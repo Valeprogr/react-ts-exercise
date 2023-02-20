@@ -19,3 +19,5 @@
 9. This is the ninth Task [https://handsonreact.com/docs/labs/ts/RespondingToEvent] [✅]
 10. This is the tithing Task [https://handsonreact.com/docs/labs/ts/CreatingForm] [✅]
 11. This is the eleventh Task [https://handsonreact.com/docs/labs/ts/CommunicatingChildToParentComponent] [✅]
+12. This is the twelfth Task [https://handsonreact.com/docs/labs/ts/HidingShowingComponents] [✅]
+13. 
